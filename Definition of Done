@@ -1,0 +1,44 @@
+# Definition of Done
+- er zijn BDD-scenario's voor de provider implementatie (functionele specificatie cq testgevallen)
+- er is een Open API specificatie (versie 3)
+- er is beoordeeld op optimale code generatie
+- er is een implementatie van een landelijke voorziening
+
+## Open API specificaties
+- Opgesteld in Open API Specification 3
+- Gepubliceerd op GitHub
+- Swagger UI toont de API specificaties correct en zonder fouten
+- Genereervariant in yaml en json op GitHub
+- Code gevalideerd met Spectral lint, inclusief validatie op Haal Centraal ontwerprichtlijnen
+- Mapping op LO-GBA is duidelijk, juist en hierop getoetst
+- Semantische betekenis van resources en parameters is opgenomen
+- Voldoet aan NL API strategie, dan wel afwijking is beargumenteerd in de design decisions (pas toe of leg uit)
+
+## Gegenereerde client code 
+- Code gegenereerd uit de API specificaties voor ten minste Java en .Net
+- De gegenereerde code is gecontroleerd op:
+  - Compleetheid: alle operaties, en daarbinnen alle gegevens zijn correct overgenomen
+  - Efficiëntie: de gegenereerde bevat geen onnodige dubbelingen in code
+  - Eenvoud: de gegenereerde code bevat geen onnodig complexe constructies
+
+## backlog
+- er is een lijst met bekende fouten, gewenste verbeteringen, gewenste uitbreidingen
+
+## getting started voor consumers 
+- er is een beschrijving die developers helpt een snelle start te maken met een client
+- bevat een verwijzing naar de aansluitvoorwaarden van de landelijke registratie
+- bevat een verwijzing naar de onboarding procedure van de landelijke registratie 
+- bevat een verwijzing naar technische specificaties
+- bevat een overzicht van testgevallen en een postman project
+- bevat een uitleg over hoe bij te dragen aan de doorontwikkeling van de API 
+
+## werkende API
+- publiceert de gedefinieerde OAS en feautures uit de release conform SLA afspraken
+- is beveiligd conform afspraken
+- is getest door landelijke registratie en tenminste 1 gemeente
+- er zijn release notes
+- er zijn aansluitvoorwaarden gepubliceerd
+- er is een onboarding procedure voor test- en productie omgeving
+- er is een SLA en een DAP
+- API is in beheer bij landelijke provider 
+- biedt een testomgeving en testgevallen 
