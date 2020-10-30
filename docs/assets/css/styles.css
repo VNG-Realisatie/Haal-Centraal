@@ -36,7 +36,7 @@ body, header, main, div { margin: 0px; padding: 0px; }
 @media (min-width: 100px) { .samen-organiseren { visibility: hidden; width: 0px;} }
 @media (min-width: 576px) { .samen-organiseren { visibility: hidden; width: 0px;} }
 @media (min-width: 595px) { .samen-organiseren { visibility: visible; width: 300px;} }
-@media (min-width: 630px) { .samen-organiseren { visibility: hidden; width: 300px;} }
+@media (min-width: 630px) { .samen-organiseren { visibility: visible; width: 300px;} }
 @media (min-width: 768px) { .samen-organiseren { visibility: visible; width: 300px; } }
 @media (min-width: 992px) { .samen-organiseren { visibility: visible; } }
 @media (min-width: 1200px) { .samen-organiseren { visibility: visible; } }
@@ -49,15 +49,18 @@ img {display:block; margin-top: 0px; margin-bottom: 0px; padding-top: 0px; paddi
 .halve-witte-zon { margin-top: 0px; margin-bottom: 0px; padding-top: 5px; padding-bottom: 0px; margin-right: 0px; margin-left: 0px; height: 116px;}
 .haalcentraal-logo { margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px; margin-left: 1px; height: 16px;}
 
-p.breadcrumb { margin-top: 2px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px; margin-left: 20px; width: auto; 
-			  vertical-align: top; font-family: "Helvetica Neue", Arial, sans-serif; font-size: 10pt; font-weight: 400; line-height: 1; text-align: left;}
-a.breadcrumb { margin-left: 0px; display: block; text-decoration: none; display: inline-block;}
+p.breadcrumb { margin-top: 2px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px; margin-left: 40px; width: auto; 
+			  vertical-align: top; font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 400; line-height: 1; text-align: left; }
+@media (min-width: 100px) { p.breadcrumb { visibility: hidden; font-size: 1pt; } }
+@media (min-width: 595px) { p.breadcrumb { visibility: visible; width: auto; font-size: 10pt; } }
+
+a.breadcrumb { margin-left: 0px; display: block; text-decoration: none; display: inline-block; margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px;}
 a.breadcrumb:hover { text-decoration: underline}
 a.breadcrumb.active, .breadcrumb { color: #495057; }
+@media (min-width: 100px) { a.breadcrumb { visibility: hidden; width: 0px; height: 0px; margin-top: -20px; margin-bottom: 0px; padding-top: -20px; padding-bottom: 0px;} }
+@media (min-width: 576px) { a.breadcrumb { visibility: hidden; width: 0px; height: 0px; margin-top: -20px; margin-bottom: 0px; padding-top: -20px; padding-bottom: 0px;} }
+@media (min-width: 595px) { a.breadcrumb { visibility: visible; width: auto; height: auto; } }
 
-
-@media (min-width: 100px) { .breadcrumb { width: 240px; margin-left: -20px;} }
-@media (min-width: 576px) { .breadcrumb { width: auto; margin-left: 20px;} }
 
 .large-navigation { width:230px;  padding-right: 0px; padding-left: 10px; margin-right: auto; margin-left: auto; margin-top: 4px;  margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px;
 					vertical-align: top; font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 400; text-align: left;}
@@ -72,6 +75,10 @@ a.breadcrumb.active, .breadcrumb { color: #495057; }
 @media (min-width: 768px) { .content { width: 420px; margin-left: 40px; } }
 @media (min-width: 992px) { .content { width: 644px; margin-left: 40px; } }
 @media (min-width: 1200px) { .content { width: 852px; margin-left: 40px; } }
+
+ul, ol, li 
+		{ font-family: "Helvetica Neue", Arial, sans-serif; font-size: 12pt; font-weight: 100; line-height: 1.2; text-align: left; color: #595959;}
+
 
 .nav-link { display: block; text-decoration: none}
 .nav-link:hover { text-decoration: underline}
