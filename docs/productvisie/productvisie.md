@@ -32,10 +32,10 @@ Niet te verwarren met modelgedreven ontwikkeling (MDD), waarbij de definitie is 
 Beleg de voordelen waar mogelijk bij de consumer (=binnengemeentelijke afnemer) vanwege de hefboomwerking: complexiteit bij de provider (1x bouwen en beheren), de voordelen in kosten en doorlooptijd bij de consumer ((aantal binnengemeentelijke afnemers x 351) x bouwen en beheren)
 
 ### Developer first
-Focus op bruikbaarheid voor de ontwikkelaar: AOS spec is getest op codegeneratie (Java, .NET meest gebruikt in gemeentelijke markt), ontwerpbeslissingen zijn getoetst op het effect op de code, maximale consistentie met andere Haal Centraal API’s en behaviour driven development (BDD) scenario's in Gherkin om het gedrag van de API te beschrijven.
+Focus op bruikbaarheid voor de ontwikkelaar: OAS spec is getest op codegeneratie (Java, .NET en Python, het meest gebruikt in gemeentelijke markt), ontwerpbeslissingen zijn getoetst op het effect op de code, maximale consistentie met andere Haal Centraal API’s en behaviour driven development (BDD) scenario's in Gherkin om het gedrag van de API te beschrijven.
 
 ### Contract first
-…en niet development first. De API is agnostisch, vrij van implementatiedetails van het providersysteem en niet gevoelig voor wijzigingen in systeemlogica bij de provider.
+…en niet code first. De API is agnostisch, vrij van implementatiedetails van het providersysteem en niet gevoelig voor wijzigingen in systeemlogica bij de provider.
 
 ### Agnostisch
 = zonder kennis van de consumer. De API moet door alle (in theorie 200 verschillende) gemeentelijke processen en producten van andere overheidspartijen kunnen worden gebruikt die basisgegevens nodig hebben.
@@ -54,7 +54,7 @@ API's worden geimplementeerd door een landelijke registratie (RvIG, kadaster, KV
 - vastgelegd in een SLA en een Dossier Afspraken en Procedures
 
 ## Scope
-Ontwerp o.b.v. een inventarisatie informatiebehoefte binnengemeentelijke afnemers van alle binnengemeentelijke afnemers. De scope is beperkt tot de basisgegevens waarover de landelijke registratie beschikt. 
+Ontwerp o.b.v. een inventarisatie informatiebehoefte van binnengemeentelijke afnemers. De scope is beperkt tot de basisgegevens waarover de landelijke registratie beschikt. 
 
 ## Uitgangspunten
 - Alle code, documenten en specificaties die ontstaan in dit traject wordt Open Source gepubliceerd onder de
@@ -78,5 +78,5 @@ We werken zoveel mogelijk Agile. Onderstaande activiteiten zijn onderdeel van ee
 - de definitie wordt bijgesteld op basis van vragen en opmerkingen van provider en andere stakeholders, bijvoorbeeld n.a.v. een fieldlab
 - testen worden primair uitgevoerd door de landelijke registratie, maar ook door minimaal 1 gemeente. 
 - (een versie van) de API wordt in productie genomen en beheerd door Landelijke Registratie
-- onboarding via de Landelijke registratie, documentatie via Haal Centraal Github.
+- onboarding via de Landelijke registratie, documentatie via Haal Centraal repository op Github.
 
