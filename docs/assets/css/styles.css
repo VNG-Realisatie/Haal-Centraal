@@ -115,8 +115,8 @@ li.planning { margin-left: -30px; font-family: "Helvetica Neue", Arial, sans-ser
 @media (min-width: 100px) { .planning { width: 168px; } }
 @media (min-width: 576px) { .planning { width: 148px; } }
 @media (min-width: 768px) { .planning { width: 250px; } }
-@media (min-width: 992px) { .planning { width: 400px; } }
-@media (min-width: 1200px) { .planning { width: 400px; } }
+@media (min-width: 992px) { .planning { width: 600px; } }
+@media (min-width: 1200px) { .planning { width: 600px; } }
 
 a.live { text-decoration: none;  color: #595959;}
 a.live:hover { text-decoration: underline}
