@@ -8,7 +8,7 @@ Haal Centraal wil voor iedere activiteit op een lokale kopie een alternatief te 
 
 ### Toegevoegde waarde voor gemeenten
 - sneller & goedkoper aansluiten door best mogelijke DX
-- goedkoper beheer door design voor evolvability en extensability
+- goedkoper beheer door design voor evolvability en extensibility
 - lagere investeringen (geen lokale kopie/ gegevensmagazijn)
 - lagere beheerkosten (geen beheer lokale kopieën)
 - hogere ROI: hergebruik API Landelijke Registratie door alle gemeentelijke taakapplicaties
@@ -39,6 +39,9 @@ Focus op bruikbaarheid voor de ontwikkelaar: AOS spec is getest op codegeneratie
 
 ### Agnostisch
 = zonder kennis van de consumer. De API moet door alle (in theorie 200 verschillende) gemeentelijke processen en producten van andere overheidspartijen kunnen worden gebruikt die basisgegevens nodig hebben.
+
+### Evolvable
+Haal Centraal API's zijn uitbreidbaar en evolvable. Doel is om geen of zo min mogelijk breaking changes te introduceren.
 
 ### Geïmplementeerd 
 API's worden geimplementeerd door een landelijke registratie (RvIG, kadaster, KVK, etc.)
