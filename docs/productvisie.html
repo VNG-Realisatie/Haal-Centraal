@@ -72,7 +72,7 @@
 					<h3>Toegevoegde waarde voor gemeenten</h3>
 						<ul>
 							<li>sneller & goedkoper aansluiten door best mogelijke DX</li>
-							<li>goedkoper beheer door design voor evolvability en extensability</li>
+							<li>goedkoper beheer door design voor evolvability en extensibility</li>
 							<li>lagere investeringen (geen lokale kopie/ gegevensmagazijn)</li>
 							<li>lagere beheerkosten (geen beheer lokale kopie&euml;n)</li>
 							<li>hogere ROI: hergebruik API Landelijke Registratie door alle gemeentelijke taakapplicaties</li>
@@ -96,13 +96,16 @@
 					<p>Beleg de voordelen waar mogelijk bij de consumer (=binnengemeentelijke afnemer) vanwege de hefboomwerking: complexiteit bij de provider (1x bouwen en beheren), de voordelen in kosten en doorlooptijd bij de consumer ((aantal binnengemeentelijke afnemers x 351) x bouwen en beheren).</p>
 					
 					<h3>Developer first</h3>
-					<p>Focus op bruikbaarheid voor de ontwikkelaar: AOS spec is getest op codegeneratie (Java, .NET meest gebruikt in gemeentelijke markt), ontwerpbeslissingen zijn getoetst op het effect op de code, maximale consistentie met andere Haal Centraal API's en behaviour driven development (BDD) scenario's in Gherkin om het gedrag van de API te beschrijven.</p>
+					<p>Focus op bruikbaarheid voor de ontwikkelaar: OAS spec is getest op codegeneratie (Java, .NET en Python, het meest gebruikt in gemeentelijke markt), ontwerpbeslissingen zijn getoetst op het effect op de code, maximale consistentie met andere Haal Centraal API's en behaviour driven development (BDD) scenario's in Gherkin om het gedrag van de API te beschrijven.</p>
 					
 					<h3>Contract first</h3>
-					<p>...en niet development first. De API is agnostisch, vrij van implementatiedetails van het providersysteem en niet gevoelig voor wijzigingen in systeemlogica bij de provider.</p>
+					<p>...en niet code first. De API is agnostisch, vrij van implementatiedetails van het providersysteem en niet gevoelig voor wijzigingen in systeemlogica bij de provider.</p>
 					
 					<h3>Agnostisch</h3>
 					<p>= zonder kennis van de consumer. De API moet door alle (in theorie 200 verschillende) gemeentelijke processen en producten van andere overheidspartijen kunnen worden gebruikt die basisgegevens nodig hebben.</p>
+					
+					<h3>Evolvable</hr>
+					<p>Haal Centraal API's zijn uitbreidbaar en evolvable. Doel is om geen of zo min mogelijk breaking changes te introduceren.</p>
 					
 					<h3>Ge&iuml;mplementeerd</h3>
 					<p>API's worden geimplementeerd door een landelijke registratie (RvIG, kadaster, KVK, etc.).</p>
@@ -116,7 +119,7 @@
 						<li>vastgelegd in een SLA en een Dossier Afspraken en Procedures</li>
 					</ul>
 					<h2>Scope</h2>
-					<p>Ontwerp o.b.v. een inventarisatie informatiebehoefte binnengemeentelijke afnemers van alle binnengemeentelijke afnemers. De scope is beperkt tot de basisgegevens waarover de landelijke registratie beschikt.</p>
+					<p>Ontwerp o.b.v. een inventarisatie informatiebehoefte van binnengemeentelijke afnemers. De scope is beperkt tot de basisgegevens waarover de landelijke registratie beschikt.</p>
 					
 					<h2>Uitgangspunten</h2>
 					<ul>
@@ -141,7 +144,7 @@
 							<li>de definitie wordt bijgesteld op basis van vragen en opmerkingen van provider en andere stakeholders, bijvoorbeeld n.a.v. een fieldlab.</li>
 							<li>testen worden primair uitgevoerd door de landelijke registratie, maar ook door minimaal 1 gemeente.</li>
 							<li>(een versie van) de API wordt in productie genomen en beheerd door Landelijke Registratie.</li>
-							<li>onboarding via de Landelijke registratie, documentatie via Haal Centraal Github.</li>
+							<li>onboarding via de Landelijke registratie, documentatie via Haal Centraal repository op Github.</li>
 						</ul>
 					</p>
 				</div>
