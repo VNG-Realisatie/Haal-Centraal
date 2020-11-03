@@ -1,3 +1,7 @@
+---
+layout: default
+title: Productvisie Haal Centraal
+---
 # Productvisie Haal Centraal 
 
 ## Doel
