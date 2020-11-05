@@ -116,7 +116,7 @@ div.large-navigation  ul { list-style-type: none; }
 @media (min-width: 100px) { div.large-navigation ul { font-size: 10pt; margin-left: -20px; } }
 @media (min-width: 595px) { div.large-navigation ul { font-size: 14pt; margin-left: -20px; } }
 
-div.large-navigation li { line-height: 1; }
+div.large-navigation li { line-height: 1.1; }
 @media (min-width: 100px) { div.large-navigation li { font-size: 10pt; } }
 @media (min-width: 595px) { div.large-navigation li { font-size: 14pt; } }
 
