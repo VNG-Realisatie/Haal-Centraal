@@ -106,19 +106,23 @@ div.content div ul li { margin-left: -30px; font-family: "Helvetica Neue", Arial
 div.large-navigation { width:230px;  padding-right: 0px; padding-left: 10px; margin-right: auto; margin-left: auto; margin-top: 4px;  margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px;
 					vertical-align: top; font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 400; text-align: left;}
 @media (min-width: 100px) { div.large-navigation { font-size: 10pt; height: auto; line-height: 1; } }
-@media (min-width: 595px) { div.large-navigation { font-size: 14pt; height: auto; line-height: 1.5; } }
+@media (min-width: 595px) { div.large-navigation { font-size: 12pt; height: auto; line-height: 1.5; } }
 
 div.large-navigation p { text-decoration: none; color: #495057; }
 @media (min-width: 100px) { div.large-navigation p { font-size: 10pt; height: auto; line-height: 1; margin-top: 10px; } }
-@media (min-width: 595px) { div.large-navigation p { font-size: 14pt; height: auto; line-height: 1.5; margin-top: 20px; } }
+@media (min-width: 595px) { div.large-navigation p { font-size: 12pt; height: auto; line-height: 1.5; margin-top: 20px; } }
 
 div.large-navigation  ul { list-style-type: none; }
 @media (min-width: 100px) { div.large-navigation ul { font-size: 10pt; margin-left: -20px; } }
-@media (min-width: 595px) { div.large-navigation ul { font-size: 14pt; margin-left: -20px; } }
+@media (min-width: 595px) { div.large-navigation ul { font-size: 12pt; margin-left: -20px; } }
+
+div.large-navigation p ul { list-style-type: none; }
+@media (min-width: 100px) { div.large-navigation ul { font-size: 10pt; margin-left: -20px; margin-top: -10px; } }
+@media (min-width: 595px) { div.large-navigation ul { font-size: 12pt; margin-left: -20px; margin-top: -16px; } }
 
 div.large-navigation li { line-height: 1.1; }
 @media (min-width: 100px) { div.large-navigation li { font-size: 10pt; } }
-@media (min-width: 595px) { div.large-navigation li { font-size: 14pt; } }
+@media (min-width: 595px) { div.large-navigation li { font-size: 12pt; } }
 
 div.large-navigation  a { display: block; text-decoration: none; color: #495057;}
 div.large-navigation  a:hover { text-decoration: underline}
