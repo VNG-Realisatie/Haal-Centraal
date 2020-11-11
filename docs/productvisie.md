@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: landing-page
 title: Productvisie Haal Centraal
 ---
-<img src="/assets/img/pexels-andrea-piacquadio-3791664-a.jpg" class="img-fluid">
-
 {:.text-primary}
 # Productvisie Haal Centraal
 
