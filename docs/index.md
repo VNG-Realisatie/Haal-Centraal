@@ -6,18 +6,18 @@ title: Productvisie Haal Centraal
 # Productvisie Haal Centraal
 
 {:.landingpage-header}
-Doel van het programma Haal Centraal is om de verstrekking van basisgegevens aan binnengemeentelijke afnemers te outsourcen naar Landelijke Registraties (RvIG, Kadaster, KVK). Dit moet leiden tot een forse reductie van lokale kopie&euml;n bij gemeenten.    
-Haal Centraal wil voor iedere activiteit op een lokale kopie een alternatief te bieden in de vorm van een API van een landelijke registratie. We beginnen met REST API's voor het zoeken en raadplegen van basisgegevens. Speciaal voor WOZ en Erfpacht staan ook Publish Subscribe API's op onze roadmap voor het bevragen van domain events uit een Event Store, en onderzoeken we het in samenhang bevragen van basisregistraties voor analyses voor handhaving en fraudebestrijding.
+Doel van het programma Haal Centraal is om de verstrekking van basisgegevens aan gemeentelijke taakapplicaties te outsourcen naar Landelijke Registraties (RvIG, Kadaster, KVK). Dit moet leiden tot een forse reductie van lokale kopieën bij gemeenten.    
+Haal Centraal biedt voor iedere activiteit op een lokale kopie een alternatief in de vorm van een API van een landelijke registratie. Te beginnen met REST API’s voor het zoeken en raadplegen van basisgegevens. Speciaal voor WOZ en Erfpacht staan ook Publish Subscribe API’s op de roadmap voor het bevragen van domain events uit een Event Store, en onderzoeken we het in samenhang bevragen van basisregistraties voor analyses voor handhaving en fraudebestrijding.
 <br><br>
 
 {:.header}
 ## Winst voor gemeenten
 
 - sneller & goedkoper aansluiten door best mogelijke DX
-- goedkoper beheer door design voor evolvability en extensability
+- goedkoper beheer door design voor evolvability en extensibility
 - lagere investeringen (geen lokale kopie/ gegevensmagazijn)
 - lagere beheerkosten (geen beheer lokale kopieën)
-- hogere ROI: hergebruik API Landelijke Registratie door alle gemeentelijke taakapplicaties
+- hogere ROI: hergebruik API van Landelijke Registratie door alle gemeentelijke taakapplicaties
 - betere technologie-business alignment (Landelijke Registratie voert sneller een wijziging door dan 355 afzonderlijke gemeenten)
 - biedt ruimte voor focus op de businessvraag van afnemers (i.p.v. op betrouwbaarheid en actualiteit van lokale kopieën)
 - maximale compliancy op de gemeentelijke softwaremarkt (aansluiting gemeente x = 100% herbruikbaar in gemeente y)
@@ -25,12 +25,12 @@ Haal Centraal wil voor iedere activiteit op een lokale kopie een alternatief te 
 {:.header}
 ## Winst voor leveranciers
 
-Leveranciers kunnen zich conform de wens van gemeenten richten op het bieden van toegevoegde waarde voor burgers, bedrijven en medewerkers en hun core domain i.p.v. plumbing concerns in supporting domains zoals het gebruik van basisgegevens.
+Leveranciers kunnen zich richten op het bieden van toegevoegde waarde voor burgers, bedrijven en medewerkers en hun core domain i.p.v. “plumbing concerns” in supporting domains zoals het gebruik van basisgegevens.
 
 {:.header}
 ## Context
 
-Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en Eindhoven). Het concept is getoetst in de BRK pilot van de gemeente Den Haag met het Kadaster op basis van de RSGB bevragingen standaard (voorloper BRP- en BRK-bevragen). De businesscase is gebaseerd op ervaringscijfers van de gemeente Den Haag en de softwareontwikkeling gedurende de pilot.
+Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en Eindhoven). De businesscase is gebaseerd op ervaringscijfers uit de pilot van de gemeente Den Haag en het Kadaster waarin het concept is beproefd.
 
 {:.header}
 ## Producteigenschappen
@@ -38,36 +38,31 @@ Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en E
 <table class="table table-borderless">
     <tbody>
         <tr class="d-flex">
-            <th class="col-3 product-feature">Business driven</th>
-            <th class="col-3 product-feature">Consumer first</th>
-            <th class="col-3 product-feature">Developer first</th>
-            <th class="col-3 product-feature">Contract first</th>
+            <th class="col product-feature">Business driven</th>
+            <th class="col product-feature">Consumer first</th>
+            <th class="col product-feature">Developer first</th>
         </tr>
         <tr class="d-flex">
-            <td class="col-3">Resourcedefinitie en functionaliteit op basis van de businessvraag van de grootste gemene infobehoefte van alle binnengemeentelijke afnemers van NL.  Niet te verwarren met modelgedreven ontwikkeling (MDD), waarbij de definitie is gebaseerd op het providerperspectief. Haal Centraal API's zijn meestal wel herleidbaar naar een onliggend informatiemodel (zodat de realiseerbaarheid en semantiek van de API geborgd is) maar zijn zoveel mogelijk loosely coupled. Implementation bleed en tight coupling met provider implementatiedetails wordt voorkomen.</td>
-            <td class="col-3">Beleg de voordelen waar mogelijk bij de consumer (=binnengemeentelijke afnemer) vanwege de hefboomwerking: complexiteit bij de provider (1x bouwen en beheren), de voordelen in kosten en doorlooptijd bij de consumer ((aantal binnengemeentelijke afnemers x 351) x bouwen en beheren).</td>
-            <td class="col-3">Focus op bruikbaarheid voor de ontwikkelaar: AOS spec is getest op codegeneratie (Java, .NET meest gebruikt in gemeentelijke markt), ontwerpbeslissingen zijn getoetst op het effect op de code, maximale consistentie met andere Haal Centraal API's en behaviour driven development (BDD) scenario's in Gherkin om het gedrag van de API te beschrijven.</td>
-            <td class="col-3">...en niet development first. De API is agnostisch, vrij van implementatiedetails van het providersysteem en niet gevoelig voor wijzigingen in systeemlogica bij de provider.</td>
-        </tr>
-        <tr class="d-flex">
-            <th class="col-3 product-feature">Agnostisch</th>
-            <th class="col-3 product-feature">Geïmplementeerd</th>
-            <th class="col-3 product-feature">Non functionals</th>
-            <th class="col-3 product-feature"></th>
-        </tr>
-        <tr class="d-flex">
-            <td class="col-3">= zonder kennis van de consumer. De API moet door alle (in theorie 200 verschillende) gemeentelijke processen en producten van andere overheidspartijen kunnen worden gebruikt die basisgegevens nodig hebben.</td>
-            <td class="col-3">API's worden geimplementeerd door een landelijke registratie (RvIG, kadaster, KVK, etc.).</td>
-            <td class="col-3">
+            <td class="col">Resourcedefinitie en functionaliteit op basis van de infobehoefte van alle binnengemeentelijke afnemers van NL. Niet te verwarren met modelgedreven ontwikkeling (MDD), waarbij de definitie is gebaseerd op het providerperspectief. Haal Centraal API's zoveel mogelijk loosely coupled. “Implementation bleed” en “tight coupling” met implementatiedetails van de provider wordt voorkomen.</td>
+            <td class="col">In verband met de hefboomwerking wordt complexiteit zoveel mogelijk bij provider belegd in plaats van bij consumer (ontwikkeling en beheer in alle gemeentelijke taakapplicaties). Daarnaast is ontwikkeling en beheer van complexe businesslogica is ook in betere handen bij een domeindeskundige provider dan bij een consumer die verstand heeft van een ander domein. Dit bespaart geld en voorkomt fouten.</td>
+            <td class="col">Veel aandacht voor DX:
                 <ul>
-                    <li>supersnel</li>
-                    <li>schaalbaar</li>
-                    <li>betrouwbaar</li>
-                    <li>resilient</li>
-                    <li>vastgelegd in een SLA en een Dossier Afspraken en Procedures</li>
+                  <li>Haal Centraal API specificaties zijn getest op codegeneratie (Java, .NET en Python)</li>
+                  <li>ontwerpbeslissingen zijn getoetst op het effect op de code</li>
+                  <li>maximale consistentie met andere Haal Centraal API’s</li>
+                  <li>BDD scenario's in Gherkin om het gedrag van de API te beschrijven</li>
                 </ul>
             </td>
-            <td class="col-3"></td>
+        </tr>
+        <tr class="d-flex">
+            <th class="col product-feature">Agnostisch</th>
+            <th class="col product-feature">Evolvable</th>
+            <th class="col product-feature">Geïmplementeerd</th>
+        </tr>
+        <tr class="d-flex">
+            <td class="col">= zonder kennis van de consumer. De API moet door alle (in theorie 200 verschillende) gemeentelijke processen en producten van andere overheidspartijen kunnen worden gebruikt.</td>
+            <td class="col">Haal Centraal API's zijn uitbreidbaar en evolvable. Doel is om besparingen voor gemeenten te realiseren door geen of zo min mogelijk breaking changes te introduceren.</td>
+            <td class="col">Haal Centraal API's zijn geïmplementeerd op een landelijke registratie van RvIG, kadaster, KVK, etc.</td>
         </tr>
     </tbody>
 </table>
@@ -76,8 +71,8 @@ Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en E
 ## Uitgangspunten
 
 - Alle code, documenten en specificaties die ontstaan in dit traject wordt Open Source gepubliceerd onder de [EUPL licentie](https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12)
-- Voor de specificatie van API's wordt [OpenAPI Specification v3.x](https://www.forumstandaardisatie.nl/standaard/openapi-specification) gebruikt. Deze is door Forum Standaardisatie op de ["Pas toe of leg uit"-lijst](https://www.forumstandaardisatie.nl/lijst-open-standaarden/in_lijst/verplicht-pas-toe-leg-uit) geplaatst
-- Waar mogelijk worden de [API strategie](https://docs.geostandaarden.nl/api/API-Strategie/) en de [REST API Design Rules](https://docs.geostandaarden.nl/api/API-Designrules/) toegepast.
+- Voor de specificatie van API's wordt [OpenAPI Specification v3.x](https://www.forumstandaardisatie.nl/standaard/openapi-specification) of AsyncAPI Specification 2.x gebruikt.
+- Waar mogelijk worden de API Design Rules, de [API strategie](https://docs.geostandaarden.nl/api/API-Strategie/) en de [REST API Design Rules](https://docs.geostandaarden.nl/api/API-Designrules/) toegepast.
 
 {:.header}
 ## Realisatie
@@ -85,9 +80,8 @@ Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en E
 We werken zoveel mogelijk Agile. Onderstaande activiteiten zijn onderdeel van een iteratief proces.
 
 - we maken van iedere gemeentelijke informatiebehoefte een user story.
-- user stories worden gemapt op een een Goals Canvas, waarmee we de basisfuncties en endpoints van API specificeren.
-- Voor de meest voorkomende stories maken we een definitie in OpenAPI (en als het nodig is features voor de provider).
-- een designer van VNG Realisatie definieert de API in OpenAPI i.s.m. de PO, een domeinexpert en ontwikkelaar van de landelijke registratie, een tester, en een developer van VNG Realisatie.
+- user stories worden gemapt op een Goals Canvas, waarmee we de basisfuncties en endpoints van API specificeren.
+- Voor de meest voorkomende stories maken we een definitie in OpenAPI of Async API, en als het nodig is features voor de provider. 
 - iedere definitie is getoetst op DX, waaronder code-generatie door een developer van VNG Realisatie, onze eigen customer zero.
 - de (concept)definitie wordt gerealiseerd door een landelijke partij.
 - de definitie wordt bijgesteld op basis van vragen en opmerkingen van provider en andere stakeholders, bijvoorbeeld n.a.v. een fieldlab.
