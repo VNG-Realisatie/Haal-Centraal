@@ -35,44 +35,84 @@ Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en E
 {:.header}
 ## Producteigenschappen
 
-<table class="table table-borderless">
-    <tbody>
-        <tr class="d-flex">
-            <th class="col product-feature">Business driven</th>
-            <th class="col product-feature">Consumer first</th>
-            <th class="col product-feature">Developer first</th>
-        </tr>
-        <tr class="d-flex">
-            <td class="col">Resourcedefinitie en functionaliteit op basis van de infobehoefte van alle binnengemeentelijke afnemers van NL. Niet te verwarren met modelgedreven ontwikkeling (MDD), waarbij de definitie is gebaseerd op het providerperspectief. Haal Centraal API's zoveel mogelijk loosely coupled. “Implementation bleed” en “tight coupling” met implementatiedetails van de provider wordt voorkomen.</td>
-            <td class="col">In verband met de hefboomwerking wordt complexiteit zoveel mogelijk bij provider belegd in plaats van bij consumer (ontwikkeling en beheer in alle gemeentelijke taakapplicaties). Daarnaast is ontwikkeling en beheer van complexe businesslogica is ook in betere handen bij een domeindeskundige provider dan bij een consumer die verstand heeft van een ander domein. Dit bespaart geld en voorkomt fouten.</td>
-            <td class="col">Veel aandacht voor DX:
-                <ul>
-                  <li>Haal Centraal API specificaties zijn getest op codegeneratie (Java, .NET en Python)</li>
-                  <li>ontwerpbeslissingen zijn getoetst op het effect op de code</li>
-                  <li>maximale consistentie met andere Haal Centraal API’s</li>
-                  <li>BDD scenario's in Gherkin om het gedrag van de API te beschrijven</li>
-                </ul>
-            </td>
-        </tr>
-        <tr class="d-flex">
-            <th class="col product-feature">Agnostisch</th>
-            <th class="col product-feature">Evolvable</th>
-            <th class="col product-feature">Geïmplementeerd</th>
-        </tr>
-        <tr class="d-flex">
-            <td class="col">= zonder kennis van de consumer. De API moet door alle (in theorie 200 verschillende) gemeentelijke processen en producten van andere overheidspartijen kunnen worden gebruikt.</td>
-            <td class="col">Haal Centraal API's zijn uitbreidbaar en evolvable. Doel is om besparingen voor gemeenten te realiseren door geen of zo min mogelijk breaking changes te introduceren.</td>
-            <td class="col">Haal Centraal API's zijn geïmplementeerd op een landelijke registratie van RvIG, kadaster, KVK, etc.</td>
-        </tr>
-    </tbody>
-</table>
+<div class="row">
+  <div class="col">
+    <div class="card no-border">
+      <div class="card-body">
+        <h3 class="card-title">Business driven</h3>
+        <p class="card-text">
+        Resourcedefinitie en functionaliteit op basis van de infobehoefte van alle binnengemeentelijke afnemers van NL. Niet te verwarren met modelgedreven ontwikkeling (MDD), waarbij de definitie is gebaseerd op het providerperspectief. Haal Centraal API's zoveel mogelijk loosely coupled. “Implementation bleed” en “tight coupling” met implementatiedetails van de provider wordt voorkomen.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card no-border">
+      <div class="card-body">
+        <h3 class="card-title">Consumer first</h3>
+        <p class="card-text">
+        In verband met de hefboomwerking wordt complexiteit zoveel mogelijk bij provider belegd in plaats van bij consumer (ontwikkeling en beheer in alle gemeentelijke taakapplicaties). Daarnaast is ontwikkeling en beheer van complexe businesslogica is ook in betere handen bij een domeindeskundige provider dan bij een consumer die verstand heeft van een ander domein. Dit bespaart geld en voorkomt fouten.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card no-border">
+      <div class="card-body">
+        <h3 class="card-title">Developer first</h3>
+        <p class="card-text">
+        Veel aandacht voor DX:
+        <ul>
+            <li>Haal Centraal API specificaties zijn getest op codegeneratie (Java, .NET en Python)</li>
+            <li>ontwerpbeslissingen zijn getoetst op het effect op de code</li>
+            <li>maximale consistentie met andere Haal Centraal API’s</li>
+            <li>BDD scenario's in Gherkin om het gedrag van de API te beschrijven</li>
+        </ul>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col">
+    <div class="card no-border">
+      <div class="card-body">
+        <h3 class="card-title">Agnostisch</h3>
+        <p class="card-text">
+        = zonder kennis van de consumer. De API moet door alle (in theorie 200 verschillende) gemeentelijke processen en producten van andere overheidspartijen kunnen worden gebruikt.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card no-border">
+      <div class="card-body">
+        <h3 class="card-title">Evolvable</h3>
+        <p class="card-text">
+        Haal Centraal API's zijn uitbreidbaar en evolvable. Doel is om besparingen voor gemeenten te realiseren door geen of zo min mogelijk breaking changes te introduceren.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card no-border">
+      <div class="card-body">
+        <h3 class="card-title">Geïmplementeerd</h3>
+        <p class="card-text">
+        Haal Centraal API's zijn geïmplementeerd op een landelijke registratie van RvIG, kadaster, KVK, etc.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
 {:.header}
 ## Uitgangspunten
 
 - Alle code, documenten en specificaties die ontstaan in dit traject wordt Open Source gepubliceerd onder de [EUPL licentie](https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12)
 - Voor de specificatie van API's wordt [OpenAPI Specification v3.x](https://www.forumstandaardisatie.nl/standaard/openapi-specification) of AsyncAPI Specification 2.x gebruikt.
-- Waar mogelijk worden de API Design Rules, de [API strategie](https://docs.geostandaarden.nl/api/API-Strategie/) en de [REST API Design Rules](https://docs.geostandaarden.nl/api/API-Designrules/) toegepast.
+- Waar mogelijk worden de [API Design Visie](https://github.com/Geonovum/KP-APIs/tree/master/Werkgroep%20Design%20Visie){:target="_blank"}, de [API strategie](https://docs.geostandaarden.nl/api/API-Strategie/){:target="_blank"} en de [REST API Design Rules](https://docs.geostandaarden.nl/api/API-Designrules/){:target="_blank"} toegepast.
 
 {:.header}
 ## Realisatie
