@@ -1,47 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-16">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Haal Centraal</title>
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-16">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <!--link rel="stylesheet" href="./assets/styles.css"-->
-        <link rel="stylesheet" href="./assets/css/styles.css">
-        <!--link rel="stylesheet" href="./assets/css/icomoon.css">
-        <link rel="stylesheet" href="./assets/css/docsearch.min.css"-->
-    </head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
 
-	<body>
-
-		<header class="bg-yellow">
-			<div class="header-row1">
-				<div class="halve-witte-zon">
-					<img src="./assets/img/haal_centraal_halve_zon_wit.png" title="Halve witte zon" alt="Halve witte zon" width="240px"/>
-				</div>
-				<div class="opvulling">&nbsp;</div>
-				<div class="samen-organiseren">
-					<p class="motto1">Haal Centraal</p>
-					<p class="motto2">Samen organiseren</p>
-				</div>
-			</div>
-			<div class="header-row2">
-				<div class="haalcentraal-logo">
-					<img src="./assets/img/haal_centraal_zon_geel_RGB.jpg" title="HaalCentraal logo" alt="HaalCentraal logo" width="238px"/>
-				</div>
-				{% include breadcrumbs.html %}
-			</div>
-		</header>
-    
-		<main>
-
-			<!-- Only show on large viewports -->
-			<div class="body-row1">
-                {% include navigation.html %}
-				<div class="content">
-					{{ content }}
-				</div>
-			</div>
-		</main>
-	</body>
+    <title>{{ content.title }}</title>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/assets/img/haal_centraal_zon_geel_RGB.jpg" width="238px">
+        </a>
+        <span class="vng-logo ml-auto"><a href="https://vng.nl" target="_blank"></a></span>
+      </nav>
+      <div style="height: 10px; border-top: 1px solid #b1b1b1;box-shadow: 0 -5px 5px -5px #7c7c7c;"></div>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light" style="text-align: right;">
+        {% include topnavigatie.html %}
+      </nav>
+    </div>
+    {{ content }}
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+  </body>
 </html>
