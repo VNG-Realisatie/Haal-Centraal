@@ -92,6 +92,7 @@ th {
 }
 a {
     color: #1a237e;
+    text-decoration: underline;
 }
 strong {
     font-weight: 500;
