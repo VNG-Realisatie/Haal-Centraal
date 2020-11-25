@@ -1,6 +1,5 @@
 baseurl: "/Haal-Centraal"
 url: "http://localhost:4000"
-
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
