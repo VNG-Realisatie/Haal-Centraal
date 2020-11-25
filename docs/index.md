@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing-page
 title: Productvisie Haal Centraal
 ---
 {:.landingpage-header}
