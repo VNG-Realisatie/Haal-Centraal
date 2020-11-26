@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing-page
 title: Hoe kun je bijdragen?
 ---
 
