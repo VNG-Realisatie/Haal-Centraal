@@ -2,6 +2,7 @@
 layout: page
 title: Hoe kun je bijdragen?
 ---
+
 # Hoe kun je bijdragen?
 
 Mis je functionaliteit die voor jou belangrijk is? Heb je een issue (fout of bug) gezien in een van onze API's? Of heb je een wens of suggestie? Bijdragen aan Hal Centraal kan in verschillende vormen.
@@ -26,5 +27,5 @@ Houd pull requests zo klein mogelijk. Combineer liever geen verschillende functi
 
 In een pull request moet in de beschrijving worden aangegeven:
 
-- Wat het doel is van de Wijzigingen
-- Wat is gewijzigd in welke bestanden
+* Wat het doel is van de Wijzigingen
+* Wat is gewijzigd in welke bestanden
