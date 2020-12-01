@@ -9,7 +9,7 @@ Mis je functionaliteit die voor jou belangrijk is? Heb je een issue (fout of bug
 
 ## Huishoudelijk
 
-Als je nog niet goed weet hoe Git en GitHub werkt, kun je hier iets meer over lezen in de [tutorial](github_tutorial.md). Hierin staat ook de workflow beschreven voor het voorstellen van wijzigingen (pull request). Het moet voor iedereen prettig zijn om een bijdrage te leveren, dus gaan we op een vriendelijke en respectvolle manier met elkaar om. Daarvoor hebben we een [gedragscode](CODE_OF_CONDUCT.md). **Nederlands** is de voertaal, maar Engels is natuurlijk ook toegestaan, daar ontkomen we in dit vakgebied niet aan.
+Als je nog niet goed weet hoe Git en GitHub werkt, kun je hier iets meer over lezen in de [tutorial](https://github.com/VNG-Realisatie/API-Kennisbank/blob/master/GitHub%20tutorial/github_tutorial.md). Hierin staat ook de workflow beschreven voor het voorstellen van wijzigingen (pull request). Het moet voor iedereen prettig zijn om een bijdrage te leveren, dus gaan we op een vriendelijke en respectvolle manier met elkaar om. Daarvoor hebben we een [gedragscode](https://github.com/VNG-Realisatie/API-Kennisbank/blob/master/CODE_OF_CONDUCT.md). **Nederlands** is de voertaal, maar Engels is natuurlijk ook toegestaan, daar ontkomen we in dit vakgebied niet aan.
 
 ## Bijdragen
 
