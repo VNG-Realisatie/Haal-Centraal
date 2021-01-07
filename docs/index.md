@@ -80,7 +80,7 @@ Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en E
       <div class="card-body">
         <h3 class="card-title">Agnostisch</h3>
         <p class="card-text">
-        = zonder kennis van de consumer. De API moet door alle (in theorie 200 verschillende) gemeentelijke processen en producten van andere overheidspartijen kunnen worden gebruikt.
+        Haal Centraal API's zijn niet afgestemd op specifieke consumerwensen. De API moet door alle (in theorie 200 verschillende) gemeentelijke processen en producten van andere overheidspartijen kunnen worden gebruikt.
         </p>
       </div>
     </div>
