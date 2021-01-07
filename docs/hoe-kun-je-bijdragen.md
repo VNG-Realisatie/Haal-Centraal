@@ -5,7 +5,7 @@ title: Hoe kun je bijdragen?
 
 # Hoe kun je bijdragen?
 
-Mis je functionaliteit die voor jou belangrijk is? Heb je een issue (fout of bug) gezien in een van onze API's? Of heb je een wens of suggestie? Bijdragen aan Hal Centraal kan in verschillende vormen.
+Mis je functionaliteit die voor jou belangrijk is? Heb je een issue (fout of bug) gezien in een van onze API's? Of heb je een wens of suggestie? Bijdragen aan Haal Centraal kan in verschillende vormen.
 
 ## Huishoudelijk
 
