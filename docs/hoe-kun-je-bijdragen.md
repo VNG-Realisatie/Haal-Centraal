@@ -17,7 +17,7 @@ Je kunt op drie manieren een bijdrage leveren:
 
 1. Issues indienen voor bugs, fouten, wensen en suggesties. Functionele wensen graag in de vorm van een user story.
 2. Bijdragen van anderen beoordelen, door te reageren op een issue of pull request.
-3. Wijzigingen of toevoegingen doen deelproducten via een pull request.
+3. Wijzigen of aanvullen van deelproducten via een pull request.
 
 Voordat je een wijziging indient via een pull request kun je overwegen eerst een issue in te dienen om te polsen of anderen in de community je voorgestelde wijziging ondersteunen. Dat verkleint de kans dat je tijd besteedt aan het maken van een wijziging die wordt afgewezen.
 
