@@ -41,7 +41,7 @@ Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en E
       <div class="card-body">
         <h3 class="card-title">Business driven</h3>
         <p class="card-text">
-        Resourcedefinitie en functionaliteit op basis van de infobehoefte van alle binnengemeentelijke afnemers van NL. Niet te verwarren met modelgedreven ontwikkeling (MDD), waarbij de definitie is gebaseerd op het providerperspectief. Haal Centraal API's zoveel mogelijk loosely coupled. “Implementation bleed” en “tight coupling” met implementatiedetails van de provider wordt voorkomen.
+        Resourcedefinitie en functionaliteit op basis van de informatiebehoefte van alle binnengemeentelijke afnemers. Niet te verwarren met modelgedreven ontwikkeling (MDD), waarbij de definitie is gebaseerd op het providerperspectief. Haal Centraal API's zijn zoveel mogelijk loosely coupled. “Implementation bleed” en “tight coupling” met implementatiedetails van de provider wordt voorkomen.
         </p>
       </div>
     </div>
@@ -51,7 +51,7 @@ Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en E
       <div class="card-body">
         <h3 class="card-title">Consumer first</h3>
         <p class="card-text">
-        In verband met de hefboomwerking wordt complexiteit zoveel mogelijk bij provider belegd in plaats van bij consumer (ontwikkeling en beheer in alle gemeentelijke taakapplicaties). Daarnaast is ontwikkeling en beheer van complexe businesslogica is ook in betere handen bij een domeindeskundige provider dan bij een consumer die verstand heeft van een ander domein. Dit bespaart geld en voorkomt fouten.
+        In verband met de hefboomwerking wordt complexiteit zoveel mogelijk bij de provider belegd in plaats van bij de consumer (ontwikkeling en beheer in alle gemeentelijke taakapplicaties). Daarnaast is ontwikkeling en beheer van complexe businesslogica ook in betere handen bij een domeindeskundige provider dan bij een consumer die verstand heeft van een ander domein. Dit bespaart geld en voorkomt fouten.
         </p>
       </div>
     </div>
@@ -120,11 +120,11 @@ Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en E
 We werken zoveel mogelijk Agile. Onderstaande activiteiten zijn onderdeel van een iteratief proces.
 
 - we maken van iedere gemeentelijke informatiebehoefte een user story.
-- user stories worden gemapt op een Goals Canvas, waarmee we de basisfuncties en endpoints van API specificeren.
+- user stories worden gemapt op een Goals Canvas, waarmee we de basisfuncties en endpoints van een API specificeren.
 - Voor de meest voorkomende stories maken we een definitie in OpenAPI of Async API, en als het nodig is features voor de provider. 
-- iedere definitie is getoetst op DX, waaronder code-generatie door een developer van VNG Realisatie, onze eigen customer zero.
+- iedere definitie is getoetst op DX, waaronder code-generatie door een developer van VNG Realisatie, door onze eigen customer zero.
 - de (concept)definitie wordt gerealiseerd door een landelijke partij.
-- de definitie wordt bijgesteld op basis van vragen en opmerkingen van provider en andere stakeholders, bijvoorbeeld n.a.v. een fieldlab.
+- de definitie wordt bijgesteld op basis van vragen en opmerkingen van de provider en andere stakeholders, bijvoorbeeld n.a.v. een fieldlab.
 - testen worden primair uitgevoerd door de landelijke registratie, maar ook door minimaal 1 gemeente.
 - (een versie van) de API wordt in productie genomen en beheerd door Landelijke Registratie.
 - onboarding via de Landelijke registratie, documentatie via Haal Centraal Github.
