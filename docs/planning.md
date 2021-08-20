@@ -10,7 +10,7 @@ title: Planning Haal Centraal
             <h1>Planning</h1>
             <div class="embed-responsive embed-responsive-1by1">
                 <iframe class="embed-responsive-item"
-                        src="https://eu-rm.roadmunk.com/publish/4ac89376551785bace5e22f09c8247f307e1c061"></iframe>
+                        src="https://eu-rm.roadmunk.com/publish/29a13c572a0dfc79f1d0386fc572e15383afe11f"></iframe>
             </div>
         </div>
     </div>
