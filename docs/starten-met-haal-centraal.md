@@ -13,7 +13,7 @@ We adviseren om op 2 sporen tegelijk te starten met Haal Centraal API’s.
    
 * Spoor 1: start direct met Haal Centraal door de eerste afnemer op een Haal Centraal API aan te sluiten. Zo doe je belangrijke ervaring op met de API’s. En vanaf de eerste API heb je al voordeel in kosten, snelheid en gemak. 
       
-* Spoor 2: start tegelijk met de transitie naar het volledig werken met API’s bij je gemeente. Deze transitie vraagt tijd en voorbereiding. Als je de transitie volledig hebt afgerond, kun je het administratieve gegevensmagazijn en veel lokale kopieën uitfaseren. Als je selecties en data-analyses uitvoert op het gegevensmagazijn kun je een hiervoor geoptimaliseerd systeem aanschaffen.
+* Spoor 2: start tegelijk met de transitie naar het volledig werken met API’s bij je gemeente. Deze transitie vraagt tijd en voorbereiding. Als je de transitie volledig hebt afgerond, kun je het administratieve [gegevensmagazijn](https://www.gemmaonline.nl/index.php/GEMMA2/0.9/id-bafa0216-44ba-11e4-67ab-0050568a6153) en veel lokale kopieën uitfaseren. 
 
 &nbsp;   
 ## Spoor 1: direct starten met de eerste API
@@ -41,6 +41,7 @@ Start tegelijk met de transitie naar het volledig werken met API’s bij je geme
 ### Voorwaarden spoor 2
 {:.header}
 Als je meer API’s gaat aansluiten, ga je ook de security opschalen. Hierover gaat stap 2 van het onderstaande 'Stappenplan spoor 2'.
+Als je selecties en data-analyses uitvoert op het gegevensmagazijn kun je een hiervoor geoptimaliseerd systeem aanschaffen.
    
 ### Stappenplan spoor 2
 {:.header}
