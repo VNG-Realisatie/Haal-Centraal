@@ -5,7 +5,7 @@ title: Productvisie Haal Centraal
 
 # Security en privacy 
 
-## Als je met API’s gaat werken, heb je andere security en privacyvoorzieningen nodig dan nu. Deze set voorzieningen is een belangrijke voorwaarde voor de transitie naar API’s. Zie hiervoor ook het plan voor de referentiearchitectuur [Werken Met API's](https://www.gemmaonline.nl/index.php/Referentiearchitectuur_Werken_met_APIs_plan). In dit hoofdstuk lees je hoe je de security kunt inrichten om veilig te werken met Haal Centraal API’s. 
+## Als je met API’s gaat werken, heb je andere security en privacyvoorzieningen nodig dan nu. Deze set voorzieningen is een belangrijke voorwaarde voor de transitie naar API’s. Zie hiervoor ook het plan voor de referentiearchitectuur [Werken Met API's](https://www.gemmaonline.nl/index.php/Referentiearchitectuur_Werken_met_APIs_plan). Hieronder lees je hoe je de security kunt inrichten om veilig te werken met Haal Centraal API’s. 
 {:.header}
 
 &nbsp;   
