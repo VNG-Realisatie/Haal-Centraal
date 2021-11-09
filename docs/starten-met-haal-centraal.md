@@ -46,8 +46,8 @@ Als je selecties en data-analyses uitvoert op het gegevensmagazijn kun je een hi
 ### Stappenplan spoor 2
 {:.header}
    
-1.	Maak een transitieplan. Dat begint met een analyse van je applicatielandschap: waar sta je nu en waar wil je heen? Vervolgens kun je [migratiestrategieën toepassen](https://github.com/VNG-Realisatie/Haal-Centraal/blob/main/docs/transitieplan.md#stap-1----maak-een-transitieplan).
-2.	Gefaseerd security opschalen. Als je meer API’s gaat aansluiten, ga je ook je [security gefaseerd opschalen](https://github.com/VNG-Realisatie/Haal-Centraal/blob/main/docs/transitieplan.md#stap-2--gefaseerd-security-opschalen). Concreet beweeg je van “alle security in de applicatie” naar “security in door de gemeente gecontroleerde centrale voorzieningen”. 
+1.	Maak een transitieplan. Dat begint met een analyse van je applicatielandschap: waar sta je nu en waar wil je heen? Vervolgens kun je [migratiestrategieën toepassen](./transitieplan.md#stap-1----maak-een-transitieplan).
+2.	Gefaseerd security opschalen. Als je meer API’s gaat aansluiten, ga je ook je [security gefaseerd opschalen](./transitieplan.md#stap-2--gefaseerd-security-opschalen). Concreet beweeg je van “alle security in de applicatie” naar “security in door de gemeente gecontroleerde centrale voorzieningen”. 
     
 Je leest een uitgebreid stappenplan voor deze transitie in [het onderdeel Transitieplan](https://vng-realisatie.github.io/Haal-Centraal/transitieplan).
 
