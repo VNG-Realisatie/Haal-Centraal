@@ -62,7 +62,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Bewoning</h3>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-historie-bevragen/getting-started">de BRP Bewoning API>></a>
+        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-bewoning/getting-started">de BRP Bewoning API>></a>
         </p></div>
     </div>
   </div>
