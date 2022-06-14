@@ -29,9 +29,10 @@ Start direct met Haal Centraal door de eerste API aan te sluiten.
    
 ### Stappenplan spoor 1
 {:.header}
-1.	Verwijs je leverancier naar de [Getting started guide van de API op GitHub](https://vng-realisatie.github.io/Haal-Centraal/aansluiten-op-apis). Daar vindt hij alle informatie om de API aan te sluiten.
-2.	Publiceer de API op de API Gateway van de gemeente. Regel hierin de rechten van de afnemersapplicatie als de API vertrouwelijk is, en vraag de applicatie evt. om de bevragingen te protocolleren.
-3.	Voer een audit uit op de aansluiting (alleen bij vertrouwelijke API’s).
+1.	Haal [de voorbeeldteksten](https://vng-realisatie.github.io/Haal-Centraal/voorbeeldteksten) op voor in de aanbesteding.
+2.	Verwijs je leverancier naar de [Getting started guide van de API op GitHub](https://vng-realisatie.github.io/Haal-Centraal/aansluiten-op-apis). Daar vindt hij alle informatie om de API aan te sluiten.
+3.	Publiceer de API op de API Gateway van de gemeente. Regel hierin de rechten van de afnemersapplicatie als de API vertrouwelijk is, en vraag de applicatie evt. om de bevragingen te protocolleren.
+4.	Voer een audit uit op de aansluiting (alleen bij vertrouwelijke API’s).
 
 &nbsp;   
 ## Spoor 2: transitie – uitfaseren administratief gegevensmagazijn en kopieën
