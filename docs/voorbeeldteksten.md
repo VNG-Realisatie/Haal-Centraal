@@ -3,8 +3,8 @@ layout: landing-page
 title: Voorbeeldteksten
 ---
 
-# Voorbeeldteksten voor aanbesteding
-* Klik hieronder op de link van de betreffende Haal Centraal API (standaard) om een voorbeeldtekst voor het programma van eisen op te halen.
+# Concept voorbeeldteksten voor aanbesteding
+* Klik hieronder op de link van een Haal Centraal API (standaard) om de concept voorbeeldtekst voor het programma van eisen op te halen.
 
 <div class="row">
 
