@@ -2,7 +2,7 @@
 layout: landing-page
 title: Productvisie Haal Centraal
 ---
-# Starten met haal centraal
+# Starten met Haal Centraal
 {:.landingpage-header}
 
 {:.landingpage-header}
