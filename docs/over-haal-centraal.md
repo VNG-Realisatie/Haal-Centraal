@@ -19,7 +19,7 @@ Haal Centraal ontwikkelt API’s (Application Programming Interfaces) waarmee je
 * Alle gemeenten kunnen aansluiten op de Haal Centraal API’s. [Bekijk welke API’s beschikbaar zijn](https://vng-realisatie.github.io/Haal-Centraal/aansluiten-op-apis).
 * API’s voldoen aan wet- en regelgeving. Wel moet iedere gemeente zorgen dat de verstrekking aan afnemers conform wet-regelgeving gebeurt. 
 * Er zijn afspraken over beschikbaarheid en performance. Het programma heeft samen met gemeenten en de landelijke registraties Service Level Agreements opgeleverd en vastgesteld. De beschikbaarheid en performance zijn goed en rapportages hiervan zijn beschikbaar. 
-* De specificaties van de beschikbare Haal Centraal API's worden [gestandaardiseerd](https://www.gemmaonline.nl/index.php/Ontwikkelagenda_API-standaarden).
+* De specificaties van de beschikbare Haal Centraal API's zijn per 1 oktober 2022 [gestandaardiseerd](https://www.gemmaonline.nl/index.php/Ontwikkelagenda_API-standaarden) (pas-toe-of-leg-uit).
 
 &nbsp;
 
