@@ -3,6 +3,7 @@ layout: default
 title: Planning Haal Centraal
 ---
 
+
 <div class="container-fluid">
     <div class="row">
         <div class="col"></div>
