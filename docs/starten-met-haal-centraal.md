@@ -4,7 +4,7 @@ title: Startgids
 ---
 # Startgids
 
-## Met Haal Centraal API’s kun je als gemeente gegevens rechtstreeks bij de landelijke registratie bevragen. Dat is beter, sneller en goedkoper. In deze startgids lees je hoe je als gemeente start met Haal Centraal API’s.
+## Met Haal Centraal API’s kun je als gemeente gegevens rechtstreeks bij de landelijke registratie bevragen. Dat is beter, sneller en goedkoper. In deze startgids lees je hoe je als gemeente start met Haal Centraal API’s. Bekijk ook het filmpje [Starten met Haal Centraal](https://youtu.be/mtiG3Tfmzk0)!
 {:.header}
 &nbsp;   
 ## Start op 2 sporen tegelijk met Haal Centraal API’s  
