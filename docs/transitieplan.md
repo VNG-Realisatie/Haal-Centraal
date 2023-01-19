@@ -82,7 +82,8 @@ Het juiste moment hiervoor is:
 Begin met het aansluiten van 1 applicatie, en breid dit langzaam uit voor alle nieuwe (opnieuw aanbestede) applicaties. Zo kun je al doende leren en verbeteren, en jouw organisatie in eigen tempo verder professionaliseren.
 {:.landingpage-header}
 
-Lees meer over logging & protocollering in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal/security).
+Lees meer over logging & protocollering in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal/security), en in het [filmpje Security opschalen](https://www.youtube.com/watch?v=SYh5anhcixI).
+
 {:.landingpage-header}
 
 &nbsp;   
@@ -103,7 +104,7 @@ Stel jezelf de vraag wanneer de provisioning van jouw Identity Provider niet mee
 Houd er rekening mee dat een IGA project 30% techniek, en 70% cultuur is. Begrip van de noodzaak en draagvlak van management en HR afdeling is een absolute voorwaarde voor succes. Start daarmee op tijd.
 {:.landingpage-header}
 
-Lees meer over IGA-systemen in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal/security).
+Lees meer over IGA-systemen in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal/security) en in het [filmpje Security opschalen](https://www.youtube.com/watch?v=SYh5anhcixI).
 {:.landingpage-header}
 
 &nbsp;   
