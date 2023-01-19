@@ -45,7 +45,7 @@ title: Voorbeeldteksten
       <div class="card-body">
         <h3 class="card-title">BRP Persoon</h3>
         <p class="card-text">
-          <a href="https://vng-realisatie.github.io/Haal-Centraal/BRP-voorbeeldtekst">Naar conceptvoorbeeldtekst</a>
+          <a href="https://brp-api.github.io/Haal-Centraal/BRP-voorbeeldtekst">Naar conceptvoorbeeldtekst</a>
         </p>
         </div>
     </div>

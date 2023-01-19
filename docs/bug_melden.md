@@ -50,7 +50,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Persoon</h3>
-        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
+        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
         </p>
         </div>
     </div>
@@ -59,7 +59,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Historie</h3>
-        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-historie-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
+        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-historie-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
         </p></div>
     </div>
   </div>
@@ -67,7 +67,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Bewoning</h3>
-        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-bewoning/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
+        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-bewoning/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
         </p></div>
     </div>
   </div>
@@ -77,7 +77,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Reisdocumenten</h3>
-        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-Reisdocumenten-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
+        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-Reisdocumenten-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
         </p></div>
     </div>
   </div>
@@ -85,7 +85,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Tabellen</h3>
-        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-tabellen-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
+        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-tabellen-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
         </p>
       </div>
     </div>

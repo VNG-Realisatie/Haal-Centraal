@@ -45,7 +45,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Persoon</h3>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-bevragen/getting-started">de BRP Persoon API>></a>
+        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://brp-api.github.io/Haal-Centraal-BRP-bevragen/getting-started">de BRP Persoon API>></a>
         </p>
         </div>
     </div>
@@ -54,7 +54,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Historie</h3>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-historie-bevragen/">de BRP Historie API>></a>
+        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://brp-api.github.io/Haal-Centraal-BRP-historie-bevragen/">de BRP Historie API>></a>
         </p></div>
     </div>
   </div>
@@ -62,7 +62,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Bewoning</h3>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-bewoning/getting-started">de BRP Bewoning API>></a>
+        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://brp-api.github.io/Haal-Centraal-BRP-bewoning/getting-started">de BRP Bewoning API>></a>
         </p></div>
     </div>
   </div>
@@ -72,7 +72,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Reisdocumenten</h3>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-Reisdocumenten-bevragen/getting-started">de BRP Reisdocumenten API>></a>
+        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://brp-api.github.io/Haal-Centraal-Reisdocumenten-bevragen/getting-started">de BRP Reisdocumenten API>></a>
         </p></div>
     </div>
   </div>
@@ -80,7 +80,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Tabellen</h3>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-tabellen-bevragen/getting-started">de BRP Tabellen API>></a>
+        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://brp-api.github.io/Haal-Centraal-BRP-tabellen-bevragen/getting-started">de BRP Tabellen API>></a>
         </p>
       </div>
     </div>
