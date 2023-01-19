@@ -11,7 +11,7 @@ title: Productvisie Haal Centraal
 &nbsp;  
 ## Lees eerst de Startgids Haal Centraal
 {:.header}
-Dit stappenplan is onderdeel van de Startgids Haal Centraal. In de startgids adviseren we om op 2 sporen te starten met Haal Centraal. Het stappenplan is een uitwerking van spoor 2 uit de startgids. Lees eerst [de Startgids Haal Centraal](https://vng-realisatie.github.io/Haal-Centraal/starten-met-haal-centraal) als je die nog niet gelezen hebt, en bekijk het filmpje [Starten met Haal Centraal](https://www.youtube.com/watch?v=mtiG3Tfmzk0).
+Dit stappenplan is onderdeel van de Startgids Haal Centraal. In de startgids adviseren we om op 2 sporen te starten met Haal Centraal. Het stappenplan is een uitwerking van spoor 2 uit de startgids. Lees eerst [de Startgids Haal Centraal](https://vng-realisatie.github.io/Haal-Centraal/starten-met-haal-centraal) als je die nog niet gelezen hebt, en bekijk het [filmpje Starten met Haal Centraal](https://www.youtube.com/watch?v=mtiG3Tfmzk0).
 
 &nbsp;   
 
