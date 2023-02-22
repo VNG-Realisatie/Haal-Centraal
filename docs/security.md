@@ -107,7 +107,7 @@ Voor het uitgeven, valideren, vernieuwen en beëindigen van security tokens en h
 Voor de (toegangs)beveiliging van de API’s. Een API Gateway is vaak onderdeel van een product voor ‘full life cycle API Management’. 
 {:.landingpage-header}
 
-Een API Gateway bevat ondersteuning voor het design, publiceren, documenteren, beveiligen en analyseren van API’s. Zie de website van Gartner voor productinspiratie. 
+Een API Gateway bevat ondersteuning voor het design, publiceren, documenteren, beveiligen en analyseren van API’s. Zie [het overzicht van Gartner](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f2472e2d-30f2-45d0-86a5-0734bd42ff6f.png) voor productinspiratie. 
 {:.landingpage-header}
 
 Een API Gateway is een must have voor iedere gemeente die gevoelige API’s aan afnemers aanbiedt.
