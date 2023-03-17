@@ -45,7 +45,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Persoon</h3>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://brp-api.github.io/Haal-Centraal-BRP-bevragen/getting-started">de BRP Persoon API>></a>
+        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://brp-api.github.io/Haal-Centraal-BRP-bevragen/v2/getting-started">de BRP Persoon API>></a>
         </p>
         </div>
     </div>
