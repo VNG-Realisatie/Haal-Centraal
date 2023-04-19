@@ -4,7 +4,7 @@ title: Verbetering of gebruikerswens doorgeven
 ---
 
 # Verbetering of gebruikerswens doorgeven
-## Je wilt een verbetering of gebruikerswens doorgeven voor een van onze API’s . Je kunt een deze doorgeven door een issue aan te maken in GitHub. Maak snel een Github account aan. We pakken je melding zo snel mogelijk op.
+## Je wilt een verbetering of gebruikerswens doorgeven voor een van onze API’s . Je kunt deze doorgeven door een issue aan te maken in GitHub. Maak snel een Github account aan. We pakken je melding zo snel mogelijk op.
 {:.header}
 
 ## Geef een verbetering of gebruikerswens door
