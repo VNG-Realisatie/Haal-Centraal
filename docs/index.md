@@ -79,7 +79,7 @@ title: Productvisie Haal Centraal
       <div class="card-body">
         <h3 class="card-title">De Comunity</h3>
         <p class="card-text">
-        Wil je geïnformeerd blijven over productwijzigingen of meepraten over de API meld je dan aan bij de community.<br/><a href="https://haalcentraal.pleio.nl/groups/view/6b593619-4d1d-4ccb-a980-0190b449bfa2/community-brk-api">Ga naar der community>></a>
+        Wil je geïnformeerd blijven over productwijzigingen of meepraten over de API meld je dan aan bij de community.<br/><a href="https://haalcentraal.pleio.nl/groups/view/6b593619-4d1d-4ccb-a980-0190b449bfa2/community-brk-api">Ga naar de community>></a>
         </p>
       </div>
     </div>
