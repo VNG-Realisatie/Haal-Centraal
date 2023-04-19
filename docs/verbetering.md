@@ -31,7 +31,6 @@ title: Verbetering of gebruikerswens doorgeven
         <h3 class="card-title">BRK Bevragen</h3>
         <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRK-bevragen/issues/new?assignees=&labels=enhancement&template=enhancement.md&title=">Maak een verbetervoorstel aan>></a><br/>
         <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRK-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een gebruikerswens aan>></a></p>
-        </p>
       </div>
     </div>
   </div>
@@ -41,8 +40,7 @@ title: Verbetering of gebruikerswens doorgeven
         <h3 class="card-title">WOZ Bevragen</h3>
         <p class="card-text"><a href="https://github.com/VNG-Realisatie/Haal-Centraal-WOZ-bevragen/issues/new?assignees=&labels=enhancement&template=enhancement.md&title=">Maak een verbetervoorstel aan>></a><br/>
         <a href="https://github.com/VNG-Realisatie/Haal-Centraal-WOZ-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een gebruikerswens aan>></a></p>
-        </p>
-        </div>
+      </div>
     </div>
   </div>
 </div>  
@@ -53,8 +51,7 @@ title: Verbetering of gebruikerswens doorgeven
         <h3 class="card-title">BRP Persoon</h3>
         <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-bevragen/issues/new?assignees=&labels=enhancement&template=enhancement.md&title=">Maak een verbetervoorstel aan>></a><br/>
         <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een gebruikerswens aan>></a></p>
-        </p>
-        </div>
+      </div>
     </div>
   </div>
   <div class="col">
@@ -63,7 +60,7 @@ title: Verbetering of gebruikerswens doorgeven
         <h3 class="card-title">BRP Historie</h3>
         <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-historie-bevragen/issues/new?assignees=&labels=enhancement&template=enhancement.md&title=">Maak een verbetervoorstel aan>></a><br/>
         <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-historie-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een gebruikerswens aan>></a></p>
-        </p></div>
+      </div>
     </div>
   </div>
   <div class="col">
@@ -72,7 +69,7 @@ title: Verbetering of gebruikerswens doorgeven
         <h3 class="card-title">BRP Bewoning</h3>
         <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-bewoning/issues/new?assignees=&labels=enhancement&template=enhancement.md&title=">Maak een verbetervoorstel aan>></a><br/>
         <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-bewoning/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een gebruikerswens aan>></a></p>
-        </p></div>
+      </div>
     </div>
   </div>
 </div>
@@ -83,7 +80,7 @@ title: Verbetering of gebruikerswens doorgeven
         <h3 class="card-title">BRP Reisdocumenten</h3>
         <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-Reisdocumenten-bevragen/issues/new?assignees=&labels=enhancement&template=enhancement.md&title=">Maak een verbetervoorstel aan>></a><br/>
         <a href="https://github.com/VNG-Realisatie/Haal-Centraal-Reisdocumenten-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een gebruikerswens aan>></a></p>
-        </p></div>
+      </div>
     </div>
   </div>
   <div class="col">
@@ -92,7 +89,6 @@ title: Verbetering of gebruikerswens doorgeven
         <h3 class="card-title">BRP Tabellen</h3>
         <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-tabellen-bevragen/issues/new?assignees=&labels=enhancement&template=enhancement.md&title=">Maak een verbetervoorstel aan>></a><br/>
         <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-tabellen-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een gebruikerswens aan>></a></p>
-        </p>
       </div>
     </div>
   </div>
