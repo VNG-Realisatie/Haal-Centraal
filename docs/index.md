@@ -53,17 +53,7 @@ title: Productvisie Haal Centraal
   </div>
 </div>
 <br>
-<!--<div class="row">
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">Gebruikerswens doorgeven</h3>
-        <p class="card-text">
-        Je kunt een gebruikerswens doorgeven in GitHub. <a href="https://vng-realisatie.github.io/Haal-Centraal/gebruikerswens">Lees meer>></a>
-        </p>
-      </div>
-    </div>
-  </div> -->
+<div class="row">
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
@@ -80,6 +70,16 @@ title: Productvisie Haal Centraal
         <h3 class="card-title">Over Haal Centraal</h3>
         <p class="card-text">
         Haal Centraal ontwikkelt API’s die gegevens bevragen bij landelijke registraties. <a href="https://vng-realisatie.github.io/Haal-Centraal/over-haal-centraal">Lees meer>></a>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card no-border">
+      <div class="card-body">
+        <h3 class="card-title">De Comunity</h3>
+        <p class="card-text">
+        Wil je geïnformeerd blijven of meepraten over de API meld je dan aan bij de community. <a href="https://haalcentraal.pleio.nl/groups/view/6b593619-4d1d-4ccb-a980-0190b449bfa2/community-brk-api">Ga naar der community>></a>
         </p>
       </div>
     </div>
