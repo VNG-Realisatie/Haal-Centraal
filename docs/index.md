@@ -46,14 +46,14 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">Verbeteringen doorgeven</h3>
-        <p class="card-text"> Je kunt een verbetering doorgeven in GitHub. <a href="https://vng-realisatie.github.io/Haal-Centraal/verbetervoorstel">Lees meer>></a>
+        <p class="card-text"> Je kunt een verbetering of gebruikerswens doorgeven in GitHub. <a href="https://vng-realisatie.github.io/Haal-Centraal/verbetervoorstel">Lees meer>></a>
         </p>
       </div>
     </div>
   </div>
 </div>
 <br>
-<div class="row">
+<!--<div class="row">
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
@@ -63,7 +63,7 @@ title: Productvisie Haal Centraal
         </p>
       </div>
     </div>
-  </div>
+  </div> -->
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
