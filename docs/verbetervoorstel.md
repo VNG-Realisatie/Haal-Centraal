@@ -20,7 +20,7 @@ title: Productvisie Haal Centraal
       <div class="card-body">
         <h3 class="card-title">BAG Bevragen</h3>
         <p class="card-text">
-          <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BAG-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een issue aan>></a>
+          <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BAG-bevragen/issues/new?assignees=&labels=enhancement&template=enhancement.md&title=">Maak een issue aan>></a>
         </p>
       </div>
     </div>
