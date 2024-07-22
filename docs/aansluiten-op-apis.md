@@ -16,7 +16,7 @@ title: Productvisie Haal Centraal
       <div class="card-body">
         <h3 class="card-title">BAG Bevragen</h3>
         <p class="card-text">
-          Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BAG-bevragen/getting-started">de BAG Bevragen API>></a>
+          Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/BAG-Gemeentelijke-wensen-tav-BAG-Bevragingen/getting-started">de BAG Bevragen API>></a>
         </p>
       </div>
     </div>
