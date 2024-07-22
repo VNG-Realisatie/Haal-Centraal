@@ -53,7 +53,8 @@ Als je selecties en data-analyses uitvoert op het gegevensmagazijn kun je een hi
 Je leest een uitgebreid stappenplan voor deze transitie in [het onderdeel Transitieplan](https://vng-realisatie.github.io/Haal-Centraal/transitieplan).
 
 &nbsp;
-<!--## We staan klaar om je te helpen 
+<!--
+## We staan klaar om je te helpen 
 {:.header}
 Heb je vragen? Neem contact met ons op.
     
@@ -63,4 +64,4 @@ Heb je vragen? Neem contact met ons op.
 
 Op ons [samenwerkingsplatform op Pleio](https://haalcentraal.pleio.nl/) vind je algemene en specifieke informatie die je kunt gebruiken bij het starten met Haal Centraal. Over de planning en ontwikkelingen. Je vindt er ook veel gestelde vragen en antwoorden. En je kunt in de community’s kennis delen met én ophalen bij vakgenoten. 
 
-Heb je algemene vragen over het programma Haal Centraal? Neem dan contact op via [info@vng.nl](mailto:info@vng.nl).-->
+Heb je algemene vragen over het programma Haal Centraal? Neem dan contact op via [info@vng.nl](mailto:info@vng.nl). -->
