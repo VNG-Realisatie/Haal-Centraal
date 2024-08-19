@@ -76,12 +76,7 @@ title: Productvisie Haal Centraal
         </p></div>
     </div>
   </div>
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Tabellen</h3>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://brp-api.github.io/Haal-Centraal-BRP-tabellen-bevragen/getting-started">de BRP Tabellen API>></a>
-        </p>
+       </p>
       </div>
     </div>
   </div>
