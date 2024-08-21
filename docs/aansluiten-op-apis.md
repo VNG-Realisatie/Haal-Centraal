@@ -76,10 +76,6 @@ title: Productvisie Haal Centraal
         </p></div>
     </div>
   </div>
-       </p>
-      </div>
-    </div>
-  </div>
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
