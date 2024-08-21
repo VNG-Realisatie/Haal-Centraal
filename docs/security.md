@@ -5,7 +5,7 @@ title: Productvisie Haal Centraal
 
 # Security en privacy 
 
-## Als je met API’s gaat werken, heb je andere security en privacyvoorzieningen nodig dan nu. Deze set voorzieningen is een belangrijke voorwaarde voor de transitie naar API’s. Hieronder lees je hoe je de security kunt inrichten om veilig te werken met Haal Centraal API’s. Bekijk ook het [filmpje Websecurity Opschalen](https://www.youtube.com/watch?v=SYh5anhcixI).
+## Als je met API’s gaat werken, heb je andere security en privacyvoorzieningen nodig dan nu. Deze set voorzieningen is een belangrijke voorwaarde voor de transitie naar API’s. Hieronder lees je hoe je de security kunt inrichten om veilig te werken met Haal Centraal API’s.
 {:.header}
 
 &nbsp;   
@@ -71,7 +71,7 @@ Voor het verzamelen, opslaan en analyse van de logging kun je bijvoorbeeld gebru
 ## Uitwerking (Toegangs)beveiliging, autorisatie en filtering
 {:.landingpage-header}
 
-Gemeenten kunnen met deze onderdelen zelf de toegangsbeveiliging en autorisatie organiseren. Bekijk ook het filmpje [Websecurity Opschalen](https://www.youtube.com/watch?v=SYh5anhcixI)
+Gemeenten kunnen met deze onderdelen zelf de toegangsbeveiliging en autorisatie organiseren.
 {:.landingpage-header}
 
 &nbsp;   
