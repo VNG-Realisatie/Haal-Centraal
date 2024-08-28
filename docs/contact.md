@@ -23,7 +23,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRK Bevragen</h3>
-        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRK-bevragen">Contactgegeven>></a>
+        <p class="card-text"> <a href="https://vng-realisatie.github.io/Haal-Centraal-BRK-bevragen">Contactgegeven>></a>
         </p>
       </div>
     </div>
@@ -32,7 +32,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">WOZ Bevragen</h3>
-        <p class="card-text"><a href="https://github.com/VNG-Realisatie/Haal-Centraal-WOZ-bevragen">Contactgegeven>></a>
+        <p class="card-text"><a href="https://vng-realisatie.github.io/Haal-Centraal-WOZ-bevragen">Contactgegeven>></a>
         </p>
         </div>
     </div>
@@ -43,7 +43,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Persoon</h3>
-        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-bevragen">Contactgegeven>></a>
+        <p class="card-text"> <a href="https://brp-api.github.io/Haal-Centraal-BRP-bevragen">Contactgegeven>></a>
         </p>
         </div>
     </div>
@@ -52,7 +52,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Historie</h3>
-        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-historie-bevragen">Contactgegeven>></a>
+        <p class="card-text"> <a href="https://brp-api.github.io/Haal-Centraal-BRP-historie-bevragen">Contactgegeven>></a>
         </p></div>
     </div>
   </div>
@@ -60,7 +60,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Bewoning</h3>
-        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-bewoning">Contactgegeven>></a>
+        <p class="card-text"> <a href="https://brp-api.github.io/Haal-Centraal-BRP-bewoning">Contactgegeven>></a>
         </p></div>
     </div>
   </div>
@@ -70,7 +70,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Reisdocumenten</h3>
-        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-Reisdocumenten-bevragen">Contactgegeven>></a>
+        <p class="card-text"> <a href="https://brp-api.github.io/Haal-Centraal-Reisdocumenten-bevragen">Contactgegeven>></a>
         </p></div>
     </div>
   </div>
@@ -78,7 +78,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRP Tabellen</h3>
-        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-tabellen-bevragen">Contactgegeven>></a>
+        <p class="card-text"> <a href="https://brp-api.github.io/Haal-Centraal-BRP-tabellen-bevragen">Contactgegeven>></a>
         </p>
       </div>
     </div>
