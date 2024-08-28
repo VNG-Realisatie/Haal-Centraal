@@ -94,12 +94,9 @@ title: Productvisie Haal Centraal
 </div>
 <br>
 
-
-&nbsp;   
-
 &nbsp;   
 Op ons [samenwerkingsplatform op Pleio](https://haalcentraal.pleio.nl/) vind je algemene en specifieke informatie die je kunt gebruiken bij het starten met Haal Centraal. Over de planning en ontwikkelingen. Je vindt er ook veel gestelde vragen en antwoorden. En je kunt in de community’s kennis delen met én ophalen bij vakgenoten. 
 
-</br>
+&nbsp;
 
-</br>
+&nbsp;
