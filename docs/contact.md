@@ -14,7 +14,7 @@ title: Productvisie Haal Centraal
       <div class="card-body">
         <h3 class="card-title">BAG Individele bevragingen</h3>
         <p class="card-text">
-          <a href="https://vng-realisatie.github.io/BAG-Gemeentelijke-wensen-tav-BAG-Bevragingen/">Contactgegeven>></a>
+          <a href="https://lvbag.github.io/BAG-Gemeentelijke-wensen-tav-BAG-Bevragingen/">Contactgegeven>></a>
         </p>
       </div>
     </div>
@@ -23,7 +23,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRK Bevragen</h3>
-        <p class="card-text"> <a href="https://vng-realisatie.github.io/Haal-Centraal-BRK-bevragen">Contactgegeven>></a>
+        <p class="card-text"> <a href="https://kadaster.github.io/BRK-bevragen/">Contactgegeven>></a>
         </p>
       </div>
     </div>
@@ -32,7 +32,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">WOZ Bevragen</h3>
-        <p class="card-text"><a href="https://vng-realisatie.github.io/Haal-Centraal-WOZ-bevragen">Contactgegeven>></a>
+        <p class="card-text"><a href="https://kadaster.github.io/WOZ-bevragen/">Contactgegeven>></a>
         </p>
         </div>
     </div>
