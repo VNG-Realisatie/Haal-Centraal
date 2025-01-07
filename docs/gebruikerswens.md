@@ -20,7 +20,7 @@ title: Productvisie Haal Centraal
       <div class="card-body">
         <h3 class="card-title">BAG Bevragen</h3>
         <p class="card-text">
-          <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BAG-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een user story aan>></a>
+          <a href="https://github.com/lvbag/BAG-Gemeentelijke-wensen-tav-BAG-Bevragingen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een user story aan>></a>
         </p>
       </div>
     </div>
@@ -29,7 +29,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">BRK Bevragen</h3>
-        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRK-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een user story aan>></a>
+        <p class="card-text"> <a href="https://github.com/kadaster/BRK-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een user story aan>></a>
         </p>
       </div>
     </div>
@@ -38,7 +38,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h3 class="card-title">WOZ Bevragen</h3>
-        <p class="card-text"><a href="https://github.com/VNG-Realisatie/Haal-Centraal-WOZ-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een user story aan>></a>
+        <p class="card-text"><a href="https://github.com/kadaster/WOZ-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een user story aan>></a>
         </p>
         </div>
     </div>
