@@ -9,6 +9,5 @@
 * [Haal-Centraal-BRP-Bevragen-RI](https://github.com/VNG-Realisatie/haal-centraal-brp-bevragen-RI)
 * [Haal-Centraal-common](https://github.com/VNG-Realisatie/Haal-Centraal-common)
 * [Haal-Centraal-geo-basisregistraties-in-samenhang-bevragen](https://github.com/VNG-Realisatie/Haal-Centraal-geo-basisregistraties-in-samenhang-bevragen)
-* [Haal-Centraal-HR-bevragen](https://github.com/VNG-Realisatie/Haal-Centraal-HR-bevragen)
 * [Haal-Centraal-Web-Security](https://github.com/VNG-Realisatie/Haal-Centraal-Web-Security)
 * [Haal-Centraal-WOZ-bevragen](https://github.com/VNG-Realisatie/Haal-Centraal-WOZ-bevragen) - [_GitHub Pages_](https://vng-realisatie.github.io/Haal-Centraal-WOZ-bevragen)
