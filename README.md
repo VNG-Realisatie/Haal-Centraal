@@ -1,3 +1,8 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Kennis centrum Architectuur | Robert Melskens |
+<hr/>
+
 # Haal-Centraal repositories
 
 * [Haal-Centraal-BAG-bevragen](https://github.com/VNG-Realisatie/Haal-Centraal-BAG-bevragen) - [_GitHub Pages_](https://vng-realisatie.github.io/Haal-Centraal-BAG-bevragen)
