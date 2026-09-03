@@ -44,61 +44,10 @@ title: Productvisie Haal Centraal
     </div>
   </div>
 </div>  
-<div class="row">
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Persoon</h3>
-        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een user story aan>></a>
-        </p>
-        </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Historie</h3>
-        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-historie-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een user story aan>></a>
-        </p></div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Bewoning</h3>
-        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-bewoning/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een user story aan>></a>
-        </p></div>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Reisdocumenten</h3>
-        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-Reisdocumenten-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een user story aan>></a>
-        </p></div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Tabellen</h3>
-        <p class="card-text"> <a href="https://github.com/BRP-API/Haal-Centraal-BRP-tabellen-bevragen/issues/new?assignees=&labels=user+story&template=user-story--als-----wil-ik-----.md&title=">Maak een user story aan>></a>
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">&nbsp;</h3>
-        <p class="card-text">&nbsp;</p>
-      </div>
-    </div>
-  </div>
-</div>
 <br>
+
+<h3 class="card-title">BRP</h3>
+<p class="card-text">Voor informatie m.b.t. alle BRP gerelateerde API specificaties verwijzen we naar het <a href="https://developer.rvig.nl/brp-api/">RvIG voor Developers portaal>></a></p>
 
 &nbsp;   
 

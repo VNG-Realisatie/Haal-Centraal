@@ -3,7 +3,7 @@ layout: landing-page
 title: Voorbeeldteksten
 ---
 
-# Concept voorbeeldteksten voor aanbesteding
+# Concept voorbeeldteksten voor aanbesteding m.b.t. BAG, BRK en WOZ Bevragen
 * Klik hieronder op de link van een Haal Centraal API (standaard) om de concept voorbeeldtekst voor het programma van eisen op te halen.
 
 <div class="row">
@@ -39,34 +39,6 @@ title: Voorbeeldteksten
     </div>
   </div>
 </div>  
-<div class="row">
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Persoon</h3>
-        <p class="card-text">
-          <a href="https://brp-api.github.io/Haal-Centraal/BRP-voorbeeldtekst">Naar conceptvoorbeeldtekst</a>
-        </p>
-        </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">&nbsp;</h3>
-        <p class="card-text">&nbsp;</p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">&nbsp;</h3>
-        <p class="card-text">&nbsp;</p>
-      </div>
-    </div>
-  </div>
-</div>
 <br>
 
 

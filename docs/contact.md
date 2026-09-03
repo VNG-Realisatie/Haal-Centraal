@@ -38,64 +38,10 @@ title: Productvisie Haal Centraal
     </div>
   </div>
 </div>  
-<div class="row">
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Persoon</h3>
-        <p class="card-text"> <a href="https://brp-api.github.io/Haal-Centraal-BRP-bevragen">Contactgegeven>></a>
-        </p>
-        </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Historie</h3>
-        <p class="card-text"> <a href="https://brp-api.github.io/Haal-Centraal-BRP-historie-bevragen">Contactgegeven>></a>
-        </p></div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Bewoning</h3>
-        <p class="card-text"> <a href="https://brp-api.github.io/Haal-Centraal-BRP-bewoning">Contactgegeven>></a>
-        </p></div>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Reisdocumenten</h3>
-        <p class="card-text"> <a href="https://brp-api.github.io/Haal-Centraal-Reisdocumenten-bevragen">Contactgegeven>></a>
-        </p></div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">BRP Tabellen</h3>
-        <p class="card-text"> <a href="https://brp-api.github.io/Haal-Centraal-BRP-tabellen-bevragen">Contactgegeven>></a>
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card no-border">
-      <div class="card-body">
-        <h3 class="card-title">&nbsp;</h3>
-        <p class="card-text">&nbsp;</p>
-      </div>
-    </div>
-  </div>
-</div>
 <br>
 
-&nbsp;   
-Op ons [samenwerkingsplatform op Pleio](https://haalcentraal.pleio.nl/) vind je algemene en specifieke informatie die je kunt gebruiken bij het starten met Haal Centraal. Over de planning en ontwikkelingen. Je vindt er ook veel gestelde vragen en antwoorden. En je kunt in de community’s kennis delen met én ophalen bij vakgenoten. 
+<h3 class="card-title">BRP</h3>
+<p class="card-text">Voor contactinformatie m.b.t. alle BRP gerelateerde API specificaties verwijzen we naar het <a href="https://developer.rvig.nl/brp-api/">RvIG voor Developers portaal>></a></p>
 
 &nbsp;
 

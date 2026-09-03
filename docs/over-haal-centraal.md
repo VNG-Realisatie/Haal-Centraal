@@ -11,7 +11,7 @@ title: Productvisie Haal Centraal
 &nbsp;
 ## Wat is Haal Centraal?
 {:.header}
-Haal Centraal ontwikkelt API’s (Application Programming Interfaces) waarmee je gemeente basisgegevens rechtstreeks bij de landelijke registraties kan bevragen. Dit past bij de informatiekundige visie Common Ground en het [GEMMA Gegevenslandschap](https://www.gemmaonline.nl/index.php/Gegevenslandschap). Haal Centraal is een initiatief van de G5 gemeenten (Amsterdam, Rotterdam, Den Haag, Utrecht en Eindhoven) en een samenwerking van gemeenten met VNG, VNG Realisatie, Kadaster, RvIG en BZK. Je leest meer over Haal Centraal op de [website van VNG Realisatie](https://vng.nl/projecten/haal-centraal-gegevens-ophalen-bij-basisregistraties).
+Haal Centraal ontwikkelt API’s (Application Programming Interfaces) waarmee je gemeente basisgegevens rechtstreeks bij de landelijke registraties kan bevragen. Dit past bij de informatiekundige visie Common Ground en het GEMMA Gegevenslandschap. Haal Centraal is een initiatief van de G5 gemeenten (Amsterdam, Rotterdam, Den Haag, Utrecht en Eindhoven) en een samenwerking van gemeenten met VNG, VNG Realisatie, Kadaster, RvIG en BZK. Je leest meer over Haal Centraal op de [website van VNG Realisatie](https://vng.nl/projecten/haal-centraal-gegevens-ophalen-bij-basisregistraties).
 
 &nbsp;
 ## Je gemeente kan direct starten met het aansluiten op de API’s
@@ -19,7 +19,7 @@ Haal Centraal ontwikkelt API’s (Application Programming Interfaces) waarmee je
 * Alle gemeenten kunnen aansluiten op de Haal Centraal API’s. [Bekijk welke API’s beschikbaar zijn](https://vng-realisatie.github.io/Haal-Centraal/aansluiten-op-apis).
 * API’s voldoen aan wet- en regelgeving. Wel moet iedere gemeente zorgen dat de verstrekking aan afnemers conform wet-regelgeving gebeurt. 
 * Er zijn afspraken over beschikbaarheid en performance. Het programma heeft samen met gemeenten en de landelijke registraties Service Level Agreements opgeleverd en vastgesteld. De beschikbaarheid en performance zijn goed en rapportages hiervan zijn beschikbaar. 
-* De specificaties van de beschikbare Haal Centraal API's zijn per 1 oktober 2022 [gestandaardiseerd](https://www.gemmaonline.nl/index.php/Ontwikkelagenda_API-standaarden) (pas-toe-of-leg-uit).
+* De specificaties van de beschikbare Haal Centraal API's zijn per 1 oktober 2022 gestandaardiseerd (pas-toe-of-leg-uit).
 
 <!--&nbsp;
 
