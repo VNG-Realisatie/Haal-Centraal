@@ -6,8 +6,8 @@ title: Productvisie Haal Centraal
 # Over Haal Centraal
 
 ## Het Haal Centraal programma ontwikkelde API’s waarmee gemeentelijke basisgegevens rechtstreeks bij de landelijke registraties kunnen worden bevraagd. 
-Haal Centraal API’s zijn beschikbaar voor alle gemeenten. Je gemeente kan direct starten met het aansluiten op de API’s.
 {:.header}
+Haal Centraal API’s zijn beschikbaar voor alle gemeenten. Je gemeente kan direct starten met het aansluiten op de API’s.
 
 &nbsp;
 ## Wat is Haal Centraal?
